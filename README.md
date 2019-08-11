@@ -1,1 +1,2 @@
-# x_ray-pneumonia-classifier
+# Chest X_ray Pneumonia Classifier
+My solution to the chest x_ray classifier Kaggle dataset
