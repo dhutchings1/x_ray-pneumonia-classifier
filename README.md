@@ -7,5 +7,3 @@ Using fastai's computer vision library, I was able to achieve ~97% accuracy when
 
 
 
-
-credit owed to Michael Blau, whom I collaborated with on this project.
